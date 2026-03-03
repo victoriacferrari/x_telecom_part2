@@ -1,4 +1,4 @@
-# Análise de Churn de Clientes – Telecomunicações
+📊 # Análise de Churn de Clientes – Telecomunicações
 
 ## Descrição do Projeto
 
